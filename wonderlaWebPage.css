@@ -1,0 +1,57 @@
+li{
+    display: inline;
+    color: #120a38;
+    float: left;
+    margin-right:12px;
+    padding: 20px;
+    font-weight: bolder;
+    
+}
+.imagetab:hover
+{
+    background-color: #80808040;
+}
+a{
+
+    display: inline;
+    color: #120a38;
+    float: left;
+    margin-right:12px;
+    padding: 20px;
+    font-weight: bolder;
+}
+.navitem{
+
+    color: #120a38;
+}
+button
+{
+    width:20%
+}
+
+#logo
+{
+
+    float: left;
+    width: 14%;
+    margin-left: 40px;
+}
+
+.imagetab{
+   
+    padding: 8px;
+    height: 350px;
+    width: 307px;
+    margin-right: 1%;
+    border-radius: 35px;
+}
+
+.placeinfo{
+    height: 30px;
+    width: 285px;
+    /* margin-right: -4%; */
+    border-radius: 35px;
+    /* background-color: #120a38; */
+    color: white;
+    text-align: center;
+}
